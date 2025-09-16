@@ -108,6 +108,14 @@ function loadSampleProjects() {
             },
             {
                 id: 3,
+                title: 'MEDICARD',
+                description: 'Medicard is a smart health card that securely stores patient details. It provides ADR (Adverse Drug Reaction) protection by preventing dangerous drug interactions and ensuring safe treatment. The card contains important medical information that can only be accessed by authorized hospitals, keeping patient data private and secure.',
+                technologies: ['HTML,CSS,JAVASCRIPT,BOOTSTRAP,NODE JS,MONGODB,'],
+                github: 'https://github.com/AjayExplorer/MediCard',
+                demo: 'https://youtu.be/V-sIHSW7QAU'
+            },
+            {
+                id: 4,
                 title: 'DHRUVA CEK',
                 description: 'This is a fully responsive and interactive music band website developed as a practice project using HTML, CSS, JavaScript, and Bootstrap. The project was built to explore and improve front-end development skills, including layout design, responsive components, and dynamic interactivity.',
                 technologies: ['JavaScript', 'HTML', 'Bootstrap', 'CSS3'],
